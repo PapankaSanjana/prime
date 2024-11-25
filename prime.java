@@ -1,6 +1,6 @@
 public class prime{
 public static void main(String[] args){
-int n=5;
+int n=4;
 int count=0;
 for(int i=1;i<=n;i++){
 if(n%i ==0){
